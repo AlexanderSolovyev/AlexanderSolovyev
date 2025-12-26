@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Alexander Solovyev
 
-<!--
-**AlexanderSolovyev/AlexanderSolovyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Flutter Developer | 8+ years  
+Cross-platform • WebRTC • Offline-first • Clean Architecture
 
-Here are some ideas to get you started:
+🚀 15+ production apps  
+👥 200K+ users  
+🌍 International projects (sports, enterprise, e-commerce)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Core expertise
+- Flutter / Dart (iOS, Android, Desktop)
+- Clean Architecture, VIPER, BLoC, Riverpod
+- WebRTC, real-time systems
+- Offline-first, caching, sync
+- CI/CD (GitLab)
+
+### 📱 Featured projects
+- **Maccabiah Games App** — 100K+ users  
+  Offline-first, high load, real-time updates  
+- **Single Desk** — cross-platform enterprise app  
+  Flutter on 6 platforms, WebRTC, SSO
+
+### 🔗 Links
+- LinkedIn: https://www.linkedin.com/in/aleksandr-solovev-20570679/
+- GitHub: https://github.com/AlexanderSolovyev
